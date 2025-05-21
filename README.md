@@ -1,1 +1,3 @@
-# Laravel_4
+```
+docker compose up --build
+```
